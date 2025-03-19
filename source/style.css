@@ -3,12 +3,12 @@
 }
 
 .navbar{
-    background-color: #e15f41;
+    background-color: #4a39e6;
 }
 
 #cabecalho nav .nav-link.active{
     background-color: #fff;
-    color: #e15f41;
+    color: #4a39e6;
 }
 
 #cabecalho .nav .nav-link, 
@@ -27,25 +27,25 @@
 }
 
 .section-title span{
-    color: #e15f41;
+    color: #4a39e6;
 }
 
-#sobre-o-restaurante, #cardapio{
-    background-color: #ffeae6;
+#sobre-as-corridas, #fale-conosco{
+    background-color: #beb3fc;
 }
 
 .text-colored{
-    color: #e15f41;
+    color: #4a39e6;
 }
 
 .nav-cardapio .nav-link.active,
 #fale-conosco button{
-    background-color: #e15f41;
+    background-color: #4a39e6;
     color: #fff;
 }
 
 .nav-cardapio .nav-link:hover{
-    color: #e15f41;
+    color: #4a39e6;
 }
 
 .social-links li{
